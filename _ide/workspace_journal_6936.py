@@ -14,3 +14,7 @@ status = platform.build()
 comp = client.get_component(name="CET_UART_FW_App")
 comp.build()
 
+vitis.dispose()
+
+vitis.dispose()
+
